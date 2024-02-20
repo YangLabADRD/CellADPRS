@@ -1,4 +1,8 @@
 # Cell-type-specific Alzheimer's disease polygenic risk score
 
-This is an R code used to perform analyses for our manuscript, "Cell-type-specific Alzheimer’s disease polygenic risk scores are associated with distinct disease processes in Alzheimer’s disease" https://www.medrxiv.org/content/10.1101/2023.06.01.23290850v1 (*Updated citation to follow once the revision is finalized)
+This is an R code used to perform analyses for our manuscript:
+
+Yang, HS., Teng, L., Kang, D. et al. Cell-type-specific Alzheimer’s disease polygenic risk scores are associated with distinct disease processes in Alzheimer’s disease. Nat Commun 14, 7659 (2023). 
+
+https://doi.org/10.1038/s41467-023-43132-2
 
